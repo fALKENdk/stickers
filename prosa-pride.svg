@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="350px" height="504px" viewBox="0 0 350 504" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>prosa-pride</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M0,212.782177 L0,503.957788 C53.4395378,503.918514 100.577579,504.069999 138.816265,503.957788 L138.816265,341.571389 C188.487595,340.095814 225.471,338.467854 269.303555,316.3735 C320.438753,283.972562 352.739159,228.442383 349.816989,166.586046 C348.358687,109.150825 316.030998,58.9286285 269.276272,27.9976549 C239.837494,12.0188025 218.905701,3.66930107 194.342772,0 L0,0 L0,144.187923 L140.204428,144.187923 L179.072982,144.187923 C191.869306,145.063169 197.015524,150.570676 205.448073,165.186164 C215.800905,182.921119 207.188098,201.642376 190.178284,211.382294 C185.898,212.683942 182.976995,212.597029 180.461145,212.782177" id="path-1"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="prosa-pride">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Prosa" fill="#DC3E2A" xlink:href="#path-1"></use>
+            <rect id="Purple" fill="#8678DD" mask="url(#mask-2)" x="0" y="420" width="420" height="84"></rect>
+            <rect id="Blue" fill="#62AFDF" mask="url(#mask-2)" x="0" y="336" width="420" height="84"></rect>
+            <rect id="Green" fill="#83D45A" mask="url(#mask-2)" x="0" y="252" width="420" height="84"></rect>
+            <rect id="Yellow" fill="#F9E35F" mask="url(#mask-2)" x="0" y="168" width="420" height="84"></rect>
+            <rect id="Orange" fill="#F9AC5F" mask="url(#mask-2)" x="0" y="84" width="420" height="84"></rect>
+            <rect id="Red" fill="#F95151" mask="url(#mask-2)" x="0" y="0" width="420" height="84"></rect>
+            <polygon id="Triangle" fill="#A5A5A5" opacity="0.393172554" style="mix-blend-mode: overlay;" mask="url(#mask-2)" points="-20.2207031 -107.8 285.758594 504.158594 -326.2 504.158594"></polygon>
+            <polygon id="Triangle" fill="#A5A5A5" style="mix-blend-mode: overlay;" mask="url(#mask-2)" points="282.950732 -75.2527344 572.5771 504 -6.67563477 504"></polygon>
+            <polygon id="Triangle" fill="#464646" style="mix-blend-mode: overlay;" mask="url(#mask-2)" points="372.524414 167.250781 -29.7896484 368.407812 -29.7896484 -33.90625"></polygon>
+        </g>
+    </g>
+</svg>
